@@ -1,5 +1,4 @@
-# NYC_CensusData
-## Introduction to Data Science
+# Data Science Project
 <b>NYC Census Data</b>
 
 <img src="NYC_map.png">
