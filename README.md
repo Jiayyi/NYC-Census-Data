@@ -17,24 +17,24 @@ hypothesis testing.</b>
 
 These are the questions we asked and used data to answer:
 
-# --Population && Demographics--
+<b>--Population && Demographics--</b>
 - How many people reside in each county?
 - Are there more males or females on average?
 - Which counties have the most and least number of blocks?
 - Which counties are most congested and which are the least congested? 
 - Is our Population normally distributed?
 
-# --Wealth and Ethnic Disparities--
+<b>--Wealth and Ethnic Disparities--</b>
 - What are the distribution of ethnicities per county?
 - What are the disparities in median household income and income per capita per county? 
 - What are the disparities of Poverty and ChildPoverty per county?
 - What are some, if any, correlations regarding income?
 
-# --Indicators of Wealth--
+<b>--Indicators of Wealth--</b>
 - What are the mean and total values of job types worked for each county?
 - What are the mean and total values of "commuting means" taken for each county?
 - Is there any a correlation between Income and the "MeanCommute" time to work?
 
-# --Hypothesis Testing--
+<b>--Hypothesis Testing--</b>
 - Do the proportions of work category also have a significant correlation with the county's social economic status? 
 In other words, will these categories show more "private" employees in New York versus more "public" employees in the Bronx?
