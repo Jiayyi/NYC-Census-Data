@@ -23,15 +23,23 @@ These are the questions we asked and used data to answer:
 
 --Wealth and Ethnic Disparities--
 6. What are the distribution of ethnicities per county?
+
 7. What are the disparities in median household income and income per capita per county? 
+
 8. What are the disparities of Poverty and ChildPoverty per county?
+
 9. What are some, if any, correlations regarding income?
 
 --Indicators of Wealth--
+
 10. What are the mean and total values of job types worked for each county?
+
 11. What are the mean and total values of "commuting means" taken for each county?
+
 12. Is there any a correlation between Income and the "MeanCommute" time to work?
 
 --Hypothesis Testing--
+
 13. Do the proportions of work category also have a significant correlation with the county's social economic status? 
+
 In other words, will these categories show more "private" employees in New York versus more "public" employees in the Bronx?
