@@ -9,7 +9,7 @@ contains data from the United States Census Bureau and revised by the 2015 Ameri
 Survey 5-year Estimates. Each census tract block includes demographics and economic
 characteristics of nearby NYC neighborhoods. 
 
-We used <b>Python</b> and its many libraries <b>(Numpy, Pandas, Seaborn, Matplotlib, SciPy)</b> to run <b>exploratory 
+We used <b>Python</b> and its many libraries <b>(Numpy, Pandas, Seaborn, Matplotlib, SciPy, Plotly)</b> to run <b>exploratory 
 data analysis, data cleaning, and data visualization</b> to take raw statistical data and convert
 them into useful information we can use to show certain trends. At the end, we did some <b>statistical 
 hypothesis testing.</b> 
@@ -37,3 +37,6 @@ These are the questions we asked and used data to answer:
 <b>--Hypothesis Testing--</b>
 - Do the proportions of work category also have a significant correlation with the county's social economic status? 
 In other words, will these categories show more "private" employees in New York versus more "public" employees in the Bronx?
+
+# Tools used
+Python, Jupyter Notebook, Numpy, Pandas, Seaborn, Matplotlib, SciPy, Plotly
